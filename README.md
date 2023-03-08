@@ -1,5 +1,5 @@
 # 💫 About Me:
-🕷 Junior Web Developer, trying to do better<br>🔭 I’m currently working on<br>🕷 Junior Web Developer, trying to do better<br>🌱 I'm currently learning React and Next.Js<br>💬 Ask me about JavaScript, HTML, CSS
+🕷 Junior Web Developer, trying to do better<br>🔭 I'm currently working on portfolio/personal projects<br>🌱 I'm currently learning React and Next.Js<br>💬 Ask me about JavaScript, HTML, CSS
 
 
 ## 🌐 Socials:
