@@ -6,7 +6,7 @@
 [![General badge](https://img.shields.io/badge/Renan%20Neves-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renansui/)
 [![Mail Badge](https://img.shields.io/badge/-renanddtao-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:renanddtao@gmail.com)
 
-- 🖥️ I've been coding in TypeScript primarily for over 4 years
+- 🖥️ I've been coding in JavaScript primarily for over 4 years
 - 💬 Ask me about **React, TypeScript, Node**
 - 📫 How to reach me renanddtao@gmail.com
 - 👨‍💻 All of my projects are available at https://renansui.vercel.app
