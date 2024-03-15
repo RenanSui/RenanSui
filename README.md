@@ -3,9 +3,15 @@
 ## <p align="center">My name is <em>Renan Neves</em></p>
 
 <p align="center">
-  <a href="https://renansui.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Renan's_Portfolio-8A2BE2"/></a>
-  <a href="https://www.linkedin.com/in/renansui/" target="_blank"><img src="https://img.shields.io/badge/Renan%20Neves-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:renanddtao@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-renanddtao-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white"/></a>
+  <a href="https://renansui.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Renan's_Portfolio-8A2BE2"/>
+  </a>
+  <a href="https://www.linkedin.com/in/renansui/" target="_blank">
+    <img src="https://img.shields.io/badge/Renan%20Neves-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:renanddtao@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-renanddtao-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">- 🦀 I’m learning Rust at the moment</p>
