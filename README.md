@@ -7,6 +7,9 @@
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+    <img align="center" alt="Electron" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />
+    <img align="center" alt="Tauri" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" />
+    <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   </div>
 </div>
 
@@ -31,7 +34,6 @@
         - HTML & CSS<br/>
         - JavaScript<br/>
         - TypeScript<br/>
-        - PHP<br/>
         - Rust<br/>
         <br/>
       </em>
@@ -41,7 +43,7 @@
         - ReactJS<br/>
         - NextJS<br/>
         - NodeJS<br/>
-        - Express.JS<br/>
+        - Electron<br/>
         - Tauri<br/>
         - PostgreSQL<br/>
       </em>
