@@ -1,20 +1,21 @@
-# <h1 align="center">Hey There! Welcome to my Git! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"/> <h1>
+<h1 align="center"> Hey There! I'm Renan Neves <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"/> </h1>
 
-## <p align="center">My name is <em>Renan Neves</em></p>
+<div align="left">
+  <h3 align="center">Full Stack Engineer</h3>
+  <div align='center' style='display:inline-block;margin-bottom:15px'>
+    <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  </div>
+</div>
 
-<p align="center">
-  <a href="https://renansui.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Renan's_Portfolio-8A2BE2"/>
-  </a>
-  <a href="https://www.linkedin.com/in/renansui/" target="_blank">
-    <img src="https://img.shields.io/badge/Renan%20Neves-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:renanddtao@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-renanddtao-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<br>
 
-<p align="center">- 🦀 I’m learning Rust at the moment</p>
+```diff
++ 🛠️ I’m learning Rust at the moment!
+! 📫 Feel free to get in touch!
+```
 
 <h3 align="center">Languages and Tools:</h3>
 
@@ -50,6 +51,13 @@
  </table> 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RenanSui&color=blueviolet" /> </p>
+
+<h3 align="left">Get in touch!👇</h3>
+
+<a target="_blank" href="https://renansui.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23333?style=for-the-badge"></a>
+<a href = "mailto:renanddtao@gmail.com" align="left"><img src="https://img.shields.io/badge/-Gmail-E43F3F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/renansui/" target="_blank" align="left"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
 
 <details align="center">
 <summary>
