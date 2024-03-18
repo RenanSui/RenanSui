@@ -17,7 +17,7 @@
 ! 📫 Feel free to get in touch!
 ```
 
-<h3 align="center">Languages and Tools:</h3>
+<br>
 
  <table align="center">
   <tr>
@@ -50,13 +50,14 @@
   </tr>
  </table> 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=RenanSui&color=blueviolet" /> </p>
+##
 
 <h3 align="left">Get in touch!👇</h3>
 
 <a target="_blank" href="https://renansui.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23333?style=for-the-badge"></a>
 <a href = "mailto:renanddtao@gmail.com" align="left"><img src="https://img.shields.io/badge/-Gmail-E43F3F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/renansui/" target="_blank" align="left"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<span align="center"> <img src="https://komarev.com/ghpvc/?username=RenanSui&color=blue&style=for-the-badge" /> </span>
 
 
 <details align="center">
