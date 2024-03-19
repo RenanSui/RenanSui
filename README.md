@@ -16,7 +16,7 @@
 <br>
 
 ```diff
-+ 🛠️ I’m learning Rust at the moment!
++ 🛠️ I’m learning Redis & Rust at the moment!
 ! 📫 Feel free to get in touch!
 ```
 
